@@ -1,19 +1,35 @@
+body {
+    font-family: Roboto, sans-serif;
+    margin: 0%;
+}
+
 img {
     width: 50px;
-    height: 50px;
+    height: 80px;
     /* ajuste o valor conforme necessário */
     /*display: block;
     margin: 0 auto;*/
 }
 
-header {
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex-wrap: wrap;
+    background-color: #1f2937;
+    padding: 15px 100px 15px 100px;
 }
 
-.logo-cat {
-    display: flex;
-    flex-wrap: wrap;
+ul {
+  list-style-type: none;
+  padding:0%;
+  margin: 0;
+  display:flex;
+  gap: 15px;
+  
+}
+
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #e5e7eb;
 }
