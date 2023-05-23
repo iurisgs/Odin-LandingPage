@@ -1,0 +1,19 @@
+img {
+    width: 50px;
+    height: 50px;
+    /* ajuste o valor conforme necessário */
+    /*display: block;
+    margin: 0 auto;*/
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.logo-cat {
+    display: flex;
+    flex-wrap: wrap;
+}
