@@ -105,3 +105,54 @@ button.button {
     text-align: center;
     padding: 30px 0px 30px 0px;
 }
+
+img.grid-image {
+    height: 200px;
+    width: 200px;
+    border-radius: 25px;
+    border: 5px solid #3882F6;
+}
+
+.content-grid {
+    max-width: 200px;
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.grid-content {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    padding-bottom: 30px
+}
+
+.grid-text {
+    text-align: center;
+    color: #1f2937;
+    font-size: 18px;
+}
+
+.grid-text.name {
+    text-align: center;
+    color: #1f2937;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.container-3 {
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.author-text {
+    font-size: 18px;
+    color: #1f2937;
+    font-weight: 800;
+}
