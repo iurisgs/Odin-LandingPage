@@ -35,7 +35,7 @@ Se você quiser conferir o resultado desse projeto, sinta-se à vontade para ace
 
 Para interagir com o projeto, siga as instruções abaixo:
 
-1. Acesse a página do projeto no GitHub Pages: [link do projeto](link_do_projeto).
+1. Acesse a página do projeto no GitHub Pages: [Odin-Landing Page](https://iurisgs.github.io/Odin-LandingPage/).
 2. Navegue pela página e explore as diferentes seções para conhecer o conteúdo disponível.
 3. Interaja com os elementos interativos, como botões, links e imagens, para obter uma experiência completa.
 4. Caso queira examinar o código-fonte do projeto, você pode:
