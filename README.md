@@ -25,6 +25,8 @@ Este é um projeto de uma página de destino (landing page) dedicada aos amantes
 - Técnicas avançadas de posicionamento e layout.
 - O uso do flexbox com a propriedade display: flex para criar layouts responsivos e flexíveis.
 - Adaptação da página a diferentes tamanhos de tela para garantir uma experiência consistente em diversos dispositivos.
+- Manipulação do DOM (Document Object Model) para interagir com elementos da página.
+- Utilização da ferramenta de inspeção de página para depurar e aprimorar o código.
 
 **Este projeto me proporcionou um ótimo aprendizado, permitindo que eu aplique minhas habilidades de HTML e CSS de forma prática. Agora, posso criar páginas web atrativas, com design moderno e responsivo. Estou ansioso para continuar a aprimorar minhas habilidades e explorar ainda mais as possibilidades do desenvolvimento web.**
 
