@@ -4,17 +4,32 @@ Este é um projeto de uma página de destino (landing page) dedicada aos amantes
 
 ## Visão Geral
 
-Olá! Sou Iuri Soares, e gostaria de compartilhar com você o meu projeto Odin-Landing Page. Essa página web foi desenvolvida para aprimorar minhas habilidades em HTML e CSS, enquanto aprendia conceitos essenciais para a criação de páginas web atraentes e responsivas.
+**Aprimorei minhas habilidades em HTML e CSS, aprendendo:**
 
-Durante o desenvolvimento desse projeto, pude explorar diferentes aspectos das linguagens HTML e CSS. Utilizei seletores HTML para segmentar elementos específicos e aplicar estilos personalizados, utilizando classes e IDs. Além disso, aprendi a estruturar o conteúdo HTML de forma lógica e semântica, garantindo uma base sólida para o design da página.
+- A estrutura básica do HTML.
+- Trabalhar com diferentes tags e elementos HTML.
+- Trabalhar com listas, links e imagens de forma eficaz.
+- Demonstração de conhecimento em controle de versão com Git e GitHub.
+- Comprometimento com a acessibilidade para garantir alta qualidade no acesso ao projeto.
 
-No que diz respeito ao CSS, adquiri habilidades valiosas na aplicação de estilos aos elementos HTML. Pude personalizar cores, tamanhos, fontes e outros aspectos visuais para criar uma experiência visualmente agradável. Também aprendi sobre a cascata do CSS, entendendo como determinar a prioridade dos estilos aplicados e garantir uma consistência visual em toda a página.
+**No que diz respeito ao CSS, adquiri habilidades valiosas em:**
 
-Um dos destaques desse projeto foi a exploração de técnicas avançadas de posicionamento, layout e o uso do flexbox com a propriedade display: flex. Com isso, fui capaz de criar layouts flexíveis e responsivos, adaptando a página a diferentes tamanhos de tela e garantindo uma experiência consistente em diferentes dispositivos.
+- Seletores CSS e como aplicar estilos a elementos específicos.
+- Compreensão de como a cascata do CSS funciona para determinar a prioridade dos estilos aplicados.
+- Aplicação de propriedades comuns do CSS, como font-size, color, background-color, etc.
+- Técnicas para centralizar elementos usando margin e text-align.
+- Definição de tamanhos de imagem usando width e height.
 
-Esse projeto me proporcionou um ótimo aprendizado, permitindo que eu aplique minhas habilidades de HTML e CSS de forma prática. Agora, posso criar páginas web atrativas, com design moderno e responsivo. Estou muito animado em continuar a aprimorar minhas habilidades e explorar ainda mais as possibilidades do desenvolvimento web.
+**Um dos destaques desse projeto foi a exploração de:**
 
-Se você quiser conferir o resultado desse projeto, sinta-se à vontade para acessar a página Odin-Landing Page. Estou aberto a feedbacks e prontos para novos desafios. Vamos continuar aprendendo e construindo coisas incríveis juntos!
+- Técnicas avançadas de posicionamento e layout.
+- O uso do flexbox com a propriedade display: flex para criar layouts responsivos e flexíveis.
+- Adaptação da página a diferentes tamanhos de tela para garantir uma experiência consistente em diversos dispositivos.
+
+**Este projeto me proporcionou um ótimo aprendizado, permitindo que eu aplique minhas habilidades de HTML e CSS de forma prática. Agora, posso criar páginas web atrativas, com design moderno e responsivo. Estou ansioso para continuar a aprimorar minhas habilidades e explorar ainda mais as possibilidades do desenvolvimento web.**
+
+**Se você quiser conferir o resultado desse projeto, sinta-se à vontade para acessar a página [Odin-Landing Page](https://iurisgs.github.io/Odin-LandingPage/). Estou aberto a feedbacks e prontos para novos desafios. Vamos continuar aprendendo e construindo coisas incríveis juntos!**
+
 
 ## Funcionalidades
 
